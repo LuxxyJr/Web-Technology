@@ -1,0 +1,6 @@
+{
+  "name": "TasteIndex - Bhubaneswar Curated Gastronomy Index",
+  "description": "The definitive epicurean compass for authentic Odia dining, coastal Chilika seafood, clay pot handi mutton, and heritage eateries across Bhubaneswar, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
